@@ -22,7 +22,8 @@ You are able to get all users and thoughts, as well as create, update and delete
 Sean Singer and the web
 
 ## Tests
-Video demo
+Video demo: https://drive.google.com/file/d/1cwIyFWzHLczyg6bH2d9oy429-nOSlAFA/view <br>
+![alt text](<Screenshot 2024-08-22 at 17.49.50.png>)
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
